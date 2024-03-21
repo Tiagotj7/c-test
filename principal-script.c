@@ -41,7 +41,7 @@ int main() {
     // Exemplo 5: Leitura de caractere
     printf("Digite um caractere: ");
     scanf(" %c", &caractere); // Espaço em branco antes de %c para ignorar espaços em branco e quebras de linha anteriores
-    printf("Oi Ezequiel \n");
+    printf("Oi você \n");
     
     // Exemplo 6: Potenciação de dois números
     printf("Digite a base: ");
